@@ -115,21 +115,7 @@ Systems Programming
 
 DevOps & Infrastructure
 
-🙌 Author
-Soumya Ranjan Nayak
-🧑‍💻 GitHub | ✉️ soumyaranjannayak405@gmail.com
-📍 Bangalore, India
 
-📜 License
-This project is licensed under the MIT License. See LICENSE for details.
-
-yaml
-Copy
-Edit
-
----
-
-Would you like me to generate a `LICENSE`, Dockerfile, or GitHub Actions CI for this project too?
 
 
 
